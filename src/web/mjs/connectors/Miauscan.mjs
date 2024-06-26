@@ -7,7 +7,7 @@ export default class MiauScan extends WordPressMangastream {
         super.id = 'miauscan';
         super.label = 'MiauScan';
         this.tags = [ 'manga', 'spanish', 'portuguese', 'scanlation' ];
-        this.url = 'https://miaucomics.org';
+        this.url = 'https://lectormiau.com/';
         this.path = '/manga/list-mode/';
 
         this.novelContainer = 'div.entry-content';
